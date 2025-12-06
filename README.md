@@ -1,1 +1,1 @@
-# Practical-5
+# Pract-5
